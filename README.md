@@ -11,6 +11,6 @@
     - Se añadió estilos de Bootstrap para mejorar el diseño de la tabla.
     - Se agregó Datatables para mejorar el listado de registros.
 
-    ![Imagen 02](img02.png "Imagen 02")
+    ![Imagen 02](Database_First.jpg "Imagen 02")
 
 # Gracias
